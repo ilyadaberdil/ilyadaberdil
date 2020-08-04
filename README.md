@@ -2,21 +2,12 @@
 #### My name is Berdil İlyada, I'm an iOS Developer. I'm from Turkey, living in İstanbul and currently working at Ebay&Gittigidiyor.
 
 ## 🤖 Social Media
-<br>
-<a href="https://tr.linkedin.com/in/ilyadaberdil"  target="_blank">
-  ![](https://img.shields.io/badge/Social-Linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)
-  </a>
-  <a href="https://github.com/ilyadaberdil" target="_blank">
-  ![](https://img.shields.io/badge/Social-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-  </a>
-  <a href="https://www.hackerrank.com/Iliada?hr_r=1" target="_blank">
-  ![](https://img.shields.io/badge/Social-Hackerrank-informational?style=flat&logo=hackerrank&logoColor=white&color=2bbc8a)
-  </a>
-  <a href="https://play.google.com/store/apps/developer?id=Berdil+Ilyada"  target="_blank">
-  ![](https://img.shields.io/badge/Social-PlayStore-informational?style=flat&logo=google-play&logoColor=white&color=2bbc8a)
-  </a>
-  ![](https://img.shields.io/badge/Social-AppStore(ComingSoon)-informational?style=flat&logo=app-store&logoColor=white&color=2bbc8a)
-  
+  [![](https://img.shields.io/badge/Social-Linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)](https://tr.linkedin.com/in/ilyadaberdil)
+  [![](https://img.shields.io/badge/Social-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)](https://github.com/ilyadaberdil)
+  [![](https://img.shields.io/badge/Social-Hackerrank-informational?style=flat&logo=hackerrank&logoColor=white&color=2bbc8a)](https://www.hackerrank.com/Iliada?hr_r=1)
+  [![](https://img.shields.io/badge/Social-PlayStore-informational?style=flat&logo=google-play&logoColor=white&color=2bbc8a)](https://play.google.com/store/apps/developer?id=Berdil+Ilyada)
+  [![](https://img.shields.io/badge/Social-AppStore(ComingSoon)-informational?style=flat&logo=app-store&logoColor=white&color=2bbc8a)]()
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ilyadaberdil/ilyadaberdil">
