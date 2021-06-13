@@ -9,7 +9,7 @@
   [![](https://img.shields.io/badge/Social-AppStore(ComingSoon)-informational?style=flat&logo=app-store&logoColor=white&color=2bbc8a)]()
 
 ## &#x1f4c8; GitHub Stats
-
+<!--
 <a href="https://github.com/ilyadaberdil/ilyadaberdil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyadaberdil&hide=html,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -17,14 +17,16 @@
 <a href="https://github.com/ilyadaberdil/ilyadaberdil">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilyadaberdil&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+-->
 
 <a href="https://github.com/ilyadaberdil/iOS-Samples">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilyadaberdil&repo=BIKCharts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/ilyadaberdil/BIKCharts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilyadaberdil&repo=iOS-Samples&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/ilyadaberdil/HTTP-Networking-Library">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilyadaberdil&repo=HTTP-Networking-Library&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 
 ## 🔧 Technologies & Tools
