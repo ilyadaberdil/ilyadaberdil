@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My name is Berdil İlyada, I'm an iOS Developer. I'm from Turkey, living in İstanbul and currently working at Ebay/GittiGidiyor.
+#### I'm an iOS Developer. I'm from Turkey, living in İstanbul and currently working at eBay/GittiGidiyor.
 
 ## 🤖 Social Media
   [![](https://img.shields.io/badge/Social-Linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)](https://tr.linkedin.com/in/ilyadaberdil)
